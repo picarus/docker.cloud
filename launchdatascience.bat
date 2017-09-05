@@ -1,0 +1,1 @@
+docker run  -d -p 8787:8787 -p 7777:7777  -p 8888:8888 picarus/datascience

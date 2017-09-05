@@ -1,0 +1,1 @@
+docker-machine create --driver amazonec2 --amazonec2-security-group docker-machine aws-datascience
